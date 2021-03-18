@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.45833in" height="1.80555in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3458 1806"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#00205B;fill-rule:nonzero}
+    .fil0 {fill:#00558C;fill-rule:nonzero}
+    .fil2 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="458,1806 986,1806 986,0 458,0 "/>
+  <polygon class="fil0" points="1514,1806 2042,1806 2042,0 1514,0 "/>
+  <polygon class="fil0" points="2569,1806 3097,1806 3097,0 2569,0 "/>
+  <path class="fil1" d="M0 753l63 0 42 116c7,19 14,49 15,52 0,-2 8,-33 18,-52l55 -118 6 0 56 118c9,19 17,49 18,52 0,-2 8,-33 15,-52l42 -116 58 0 -105 291 -6 0 -65 -139c-7,-15 -15,-40 -16,-42 0,1 -9,27 -17,42l-67 139 -6 0 -106 -291z"/>
+  <polygon class="fil2" points="694,1044 748,1044 748,750 694,750 "/>
+  <path class="fil1" d="M1207 907c-14,-14 -33,-39 -33,-39 0,0 4,32 4,53l0 121 -53 0 0 -291 6 0 139 137c13,13 33,39 33,39 0,0 -4,-33 -4,-53l0 -121 53 0 0 291 -6 0 -139 -137 0 0z"/>
+  <path class="fil2" d="M1639 897c0,-85 60,-147 147,-147 47,0 81,13 105,40l-40 40c-14,-15 -31,-26 -64,-26 -52,0 -86,40 -86,94 0,54 35,94 95,94 19,0 42,-3 56,-11l0 -46 -70 0 0 -52 124 0 0 128c-17,13 -58,33 -111,33 -94,0 -156,-62 -156,-147l0 0z"/>
+  <path class="fil1" d="M2347 954l-18 -44c-8,-19 -17,-49 -18,-52 0,1 -9,32 -17,52l-18 44 72 0zm-38 -204l5 0 134 294 -63 0 -16 -39 -113 0 -16 39 -58 0 128 -294z"/>
+  <polygon class="fil2" points="2792,803 2708,803 2708,750 2935,750 2935,803 2852,803 2852,1044 2792,1044 2792,803 "/>
+  <polygon class="fil1" points="3264,750 3445,750 3445,803 3320,803 3320,871 3430,871 3430,922 3320,922 3320,991 3451,991 3451,1044 3264,1044 3264,750 "/>
+ </g>
+</svg>
